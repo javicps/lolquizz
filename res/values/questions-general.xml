@@ -1,0 +1,22 @@
+<resources>
+
+ 
+    <string-array name="question3">
+        <item>How many gold grants Baron Nashor?</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>550</item>
+    </string-array>
+ 
+    <string-array name="general1">
+        <item>At which time you can surrender in Summoner\s rift?</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>15 minutes</item>
+        <item>40 minutes</item>
+    </string-array>
+   
+   
+
+</resources>

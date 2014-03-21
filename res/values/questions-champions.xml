@@ -1,0 +1,893 @@
+<resources>
+
+    <string-array name="champions1">
+        <item>Which color is Veigar?</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="champions2">
+        <item>What is Ashe\'s base health?</item>
+        <item>395</item>
+        <item>375</item>
+        <item>400</item>
+        <item>450</item>
+    </string-array>
+    <string-array name="champions6">
+        <item>What is the name of Amumu\'s ultimate ability?</item>
+        <item>Curse of the Sad Mummy</item>
+        <item>Curse of the Pharaoh</item>
+        <item>Curse of Horus</item>
+        <item>Bandage Storm</item>
+    </string-array>
+    <string-array name="champions7">
+        <item>How many tails does Ahri have?</item>
+        <item>9</item>
+        <item>3</item>
+        <item>6</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="champions8">
+        <item>What is the title of Akali?</item>
+        <item>The Fist of Shadow</item>
+        <item>The Crescent Assassin</item>
+        <item>The Shadow Dancer</item>
+        <item>The Masked Shadow</item>
+    </string-array>
+    <string-array name="champions21">
+        <item>What is the name of Karthus\' ultimate ability?</item>
+        <item>Requiem</item>
+        <item>Press-R</item>
+        <item>Death march</item>
+        <item>Funeral</item>
+    </string-array>
+    <string-array name="champions22">
+        <item>What is the name of Sona\'s ultimate ability?</item>
+        <item>Crescendo</item>
+        <item>Requiem</item>
+        <item>Orchestra</item>
+        <item>Innuendo</item>
+    </string-array>
+    <string-array name="champions23">
+        <item>What is the name of Pantheon\'s ultimate ability?</item>
+        <item>Grand skyfall</item>
+        <item>Man drop</item>
+        <item>Leap of faith</item>
+        <item>Greek leap</item>
+    </string-array>
+    <string-array name="champions24">
+        <item>What is the name of Vladimir\'s ultimate ability?</item>
+        <item>Hemoplague</item>
+        <item>Blood rites</item>
+        <item>Sanguine virus</item>
+        <item>Red pool</item>
+    </string-array>
+    <string-array name="champions25">
+        <item>What is the name of Galio\'s ultimate ability?</item>
+        <item>Idol of Durand</item>
+        <item>Demacian Revenge</item>
+        <item>Unstoppable Fury</item>
+        <item>Gargoyle Stance</item>
+    </string-array>
+    <string-array name="champions26">
+        <item>What is the name of Nocturne\'s ultimate ability?</item>
+        <item>Paranoia</item>
+        <item>Seek and Destroy</item>
+        <item>Dark Charge</item>
+        <item>Nightmare</item>
+    </string-array>
+    <string-array name="champions27">
+        <item>What is the name of Mordekaiser\'s ultimate ability?</item>
+        <item>Children of the Grave</item>
+        <item>Children of the Damned</item>
+        <item>Children of the Tomb</item>
+        <item>Morde es #1</item>
+    </string-array>
+    <string-array name="champions28">
+        <item>What is the name of Caitlyn\'s ultimate ability?</item>
+        <item>Ace in the Hole</item>
+        <item>Point Blank</item>
+        <item>Fire in the Hole</item>
+        <item>Boom, Headshot!</item>
+    </string-array>
+    <string-array name="champions29">
+        <item>What is the name of Nunu\'s ultimate ability?</item>
+        <item>Absolute Zero</item>
+        <item>Freeze!</item>
+        <item>Ice Age</item>
+        <item>Blizzard</item>
+    </string-array>
+    <string-array name="champions30">
+        <item>What is the name of Fiddlesticks\'s ultimate ability?</item>
+        <item>Crowstorm</item>
+        <item>Ravenstorm</item>
+        <item>Caw Caw Caw</item>
+        <item>Birdstorm</item>
+    </string-array>
+    <string-array name="champions31">
+        <item>What is the name of Garen\'s ultimate ability?</item>
+        <item>Demacian Justice</item>
+        <item>Valoran Execution</item>
+        <item>Valoran Justice</item>
+        <item>Demacian Execution</item>
+    </string-array>
+    <string-array name="champions32">
+        <item>What is the name of Poppy\'s ultimate ability?</item>
+        <item>Diplomatic Immunity</item>
+        <item>Valoran Shield</item>
+        <item>Paragon of Demacia</item>
+        <item>Idol of Durand</item>
+    </string-array>
+    <string-array name="champions33">
+        <item>What is the name of Kog Maw\'s ultimate ability?</item>
+        <item>Living Artillery</item>
+        <item>Acidic Spit</item>
+        <item>Arcane Barrage</item>
+        <item>Death from Above</item>
+    </string-array>
+    <string-array name="champions16">
+        <item>Which of these items is NOT one of Victor\'s?</item>
+        <item>Augment: Destruction</item>
+        <item>Augment: Gravity</item>
+        <item>Augment: Power</item>
+        <item>Augment: Death</item>
+    </string-array>
+    <string-array name="champions36">
+        <item>What is the name of Fizz\'s ultimate ability?</item>
+        <item>Chum the Waters</item>
+        <item>Shark Attack</item>
+        <item>Orcalypse</item>
+        <item>Fishing Time!</item>
+    </string-array>
+    <string-array name="champions37">
+        <item>What is the name of Soraka\'s ultimate ability?</item>
+        <item>Wish</item>
+        <item>Omen</item>
+        <item>Prayer</item>
+        <item>Healthcare</item>
+    </string-array>
+    <string-array name="champions38">
+        <item>What is the name of Ashe\'s ultimate ability?</item>
+        <item>Enchanted Crystal Arrow</item>
+        <item>Magic Frozen Arrow</item>
+        <item>Iced Arrow</item>
+        <item>Blue Arrow</item>
+    </string-array>
+    <string-array name="champions34">
+        <item>What is the name of Miss Fortune\'s ultimate ability?</item>
+        <item>Bullet Time</item>
+        <item>Pistol Barrage</item>
+        <item>Cannon Burst</item>
+        <item>Maniac Laugh</item>
+    </string-array>
+    <string-array name="champions35">
+        <item>What is the name of Teemo\'s ultimate ability?</item>
+        <item>Noxious Trap</item>
+        <item>Mushroom Plant</item>
+        <item>Poison Fungus</item>
+        <item>Shroom Doom</item>
+    </string-array>
+    <string-array name="champions39">
+        <item>Who says the quote: "Wanna see a hat trick?"</item>
+        <item>Caitlyn</item>
+        <item>Gangplank</item>
+        <item>LeBlanc</item>
+        <item>Anivia</item>
+    </string-array>
+    <string-array name="champions40">
+        <item>Which actress was the reference for Leona\'s art?</item>
+        <item>Natalie Portman</item>
+        <item>Sandra Bullock</item>
+        <item>Sharon Stone</item>
+        <item>Nicole Kidman</item>
+    </string-array>
+    <string-array name="champions41">
+        <item>Where does Mundo go?</item>
+        <item>Where he pleases</item>
+        <item>Zaun</item>
+        <item>Nowhere</item>
+        <item>Demacia!</item>
+    </string-array>
+    <string-array name="champions42">
+        <item>What does Lux mean in latin?</item>
+        <item>Light</item>
+        <item>Luxury</item>
+        <item>Love</item>
+        <item>Laser</item>
+    </string-array>
+    <string-array name="champions43">
+        <item>What is the cooldown of Anivia\'s rebirth egg?</item>
+        <item>4 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>6 minutes</item>
+    </string-array>
+    <string-array name="champions44">
+        <item>What is the cooldown of Anivia\'s Crystallize ability (wall)?</item>
+        <item>25 seconds</item>
+        <item>15 seconds</item>
+        <item>18 seconds</item>
+        <item>20 seconds</item>
+    </string-array>
+    <string-array name="champions45">
+        <item>What is the name of Skarner\'s ultimate ability?</item>
+        <item>Impale</item>
+        <item>Stinger</item>
+        <item>Scorpion Hook</item>
+        <item>Crystal Prison</item>
+    </string-array>
+    <string-array name="champions46">
+        <item>What is the effect of Fiddlesticks passive ability?</item>
+        <item>Reduces magic resistance</item>
+        <item>Reduces armor</item>
+        <item>Gives armor</item>
+        <item>Gives magic resistance</item>
+    </string-array>
+    <string-array name="champions47">
+        <item>What is the name of Fiddlesticks\' passive ability?</item>
+        <item>Dread</item>
+        <item>Terror</item>
+        <item>Horror</item>
+        <item>Straw</item>
+    </string-array>
+    <string-array name="champions48">
+        <item>What is the name of Swain\'s passive ability?</item>
+        <item>Carrion Renewal</item>
+        <item>Crow Control</item>
+        <item>Arcane Mastery</item>
+        <item>Bird Flu</item>
+    </string-array>
+    <string-array name="champions49">
+        <item>What is the name of Morgana\'s passive ability?</item>
+        <item>Soul Syphon</item>
+        <item>Focus</item>
+        <item>Camouflage</item>
+        <item>Soul Eater</item>
+    </string-array>
+    <string-array name="champions50">
+        <item>What is the name of Blitzcrank\'s passive ability?</item>
+        <item>Mana Barrier</item>
+        <item>Electric Shield</item>
+        <item>Mecha-Armor</item>
+        <item>Iron Man</item>
+    </string-array>
+    <string-array name="champions51">
+        <item>What is the name of Sivir\'s passive ability?</item>
+        <item>Fleet of Foot</item>
+        <item>Eternal Thirst</item>
+        <item>Feel No Pain</item>
+        <item>Berserker Rage</item>
+    </string-array>
+    <string-array name="champions52">
+        <item>What is the name of Garen\'s passive ability?</item>
+        <item>Perseverance</item>
+        <item>Tenacity</item>
+        <item>Regeneration</item>
+        <item>Illumination</item>
+    </string-array>
+    <string-array name="champions53">
+        <item>What is the name of Nocturne\'s passive ability?</item>
+        <item>Umbra Blades</item>
+        <item>Necrotic Mind</item>
+        <item>Dread</item>
+        <item>Cursed Touch</item>
+    </string-array>
+    <string-array name="champions54">
+        <item>What is the name of Amumu\'s passive ability?</item>
+        <item>Cursed Touch</item>
+        <item>Bandage Plague</item>
+        <item>Pharaoh Touch</item>
+        <item>Cursed Plague</item>
+    </string-array>
+    <string-array name="champions55">
+        <item>Whose is the ultimate ability Solar Flare? </item>
+        <item>Leona</item>
+        <item>Jax</item>
+        <item>Ashe</item>
+        <item>Diana</item>
+    </string-array>
+    <string-array name="champions56">
+        <item>Whose is the ultimate ability Petrifying Gaze? </item>
+        <item>Cassiopeia</item>
+        <item>Amumu</item>
+        <item>Malphite</item>
+        <item>Xerath</item>
+    </string-array>
+    <string-array name="champions57">
+        <item>Whose is the ultimate ability Ragnarok? </item>
+        <item>Olaf</item>
+        <item>Tristana</item>
+        <item>Sivir</item>
+        <item>Singed</item>
+    </string-array>
+    <string-array name="champions58">
+        <item>Whose is the ultimate ability Monsoon? </item>
+        <item>Janna</item>
+        <item>Nidalee</item>
+        <item>Tryndamere</item>
+        <item>Leona</item>
+    </string-array>
+    <string-array name="champions59">
+        <item>Whose is the ultimate ability On the Hunt?</item>
+        <item>Sivir</item>
+        <item>Nidalee</item>
+        <item>Caitlyn</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="champions60">
+        <item>Whose is the ultimate ability Dragon\'s Descent?</item>
+        <item>Shyvana</item>
+        <item>Jarvan IV</item>
+        <item>Vayne</item>
+        <item>Varus</item>
+    </string-array>
+    <string-array name="champions61">
+        <item>Whose is the ultimate Aspect of the Cougar?</item>
+        <item>Nidalee</item>
+        <item>Rengar</item>
+        <item>Udyr</item>
+        <item>Renekton</item>
+    </string-array>
+    <string-array name="champions62">
+        <item>Whose is the ultimate Spray and Pray?</item>
+        <item>Twitch</item>
+        <item>Vayne</item>
+        <item>Varus</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="champions63">
+        <item>Whose is the ultimate ability Highlander?</item>
+        <item>Master Yi</item>
+        <item>Tryndamere</item>
+        <item>Volibear</item>
+        <item>Jax</item>
+    </string-array>
+    <string-array name="champions64">
+        <item>Whose is the ultimate ability Crescendo?</item>
+        <item>Sona</item>
+        <item>Soraka</item>
+        <item>Swain</item>
+        <item>Nunu</item>
+    </string-array>
+    <string-array name="champions65">
+        <item>Whose is the ultimate ability Insanity Potion?</item>
+        <item>Singed</item>
+        <item>Yorick</item>
+        <item>Dr Mundo</item>
+        <item>Ryze</item>
+    </string-array>
+    <string-array name="champions66">
+        <item>Whose is the ultimate ability Glacial Prison?</item>
+        <item>Sejuani</item>
+        <item>Trundle</item>
+        <item>Anivia</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="champions67">
+        <item>Whose is the ultimate ability Agony?</item>
+        <item>Trundle</item>
+        <item>Twitch</item>
+        <item>Varus</item>
+        <item>Diana</item>
+    </string-array>
+    <string-array name="champions68">
+        <item>Whose is the ultimate ability Wish?</item>
+        <item>Soraka</item>
+        <item>Sona</item>
+        <item>Nidalee</item>
+        <item>Amumu</item>
+    </string-array>
+    <string-array name="champions69">
+        <item>Whose is the ultimate ability Dominus?</item>
+        <item>Renekton</item>
+        <item>Rengar</item>
+        <item>Varus</item>
+        <item>Volibear</item>
+    </string-array>
+    <string-array name="champions70">
+        <item>Whose is the ultimate ability Pyroclasm?</item>
+        <item>Brand</item>
+        <item>Annie</item>
+        <item>Ryze</item>
+        <item>Shyvana</item>
+    </string-array>
+    <string-array name="champions71">
+        <item>Whose is the ultimate ability Bullet Time?</item>
+        <item>Miss Fortune</item>
+        <item>Graves</item>
+        <item>Corki</item>
+        <item>Vayne</item>
+    </string-array>
+    <string-array name="champions72">
+        <item>Whose is the ultimate ability Mimic?</item>
+        <item>LeBlanc</item>
+        <item>Shaco</item>
+        <item>Wukong</item>
+        <item>Xerath</item>
+    </string-array>
+    <string-array name="champions73">
+        <item>Whose is the ultimate ability Collateral Damage?</item>
+        <item>Graves</item>
+        <item>Caitlyn</item>
+        <item>Jarvan IV</item>
+        <item>Talon</item>
+    </string-array>
+    <string-array name="champions74">
+        <item>Whose is the ultimate ability Shadow Assault?</item>
+        <item>Talon</item>
+        <item>Nocturne</item>
+        <item>Kog\'Maw</item>
+        <item>Fiora</item>
+    </string-array>
+    <string-array name="champions75">
+        <item>Whose is the ultimate ability Blade Waltz?</item>
+        <item>Fiora</item>
+        <item>Sona</item>
+        <item>Talon</item>
+        <item>Katarina</item>
+    </string-array>
+    <string-array name="champions76">
+        <item>Whose is the ultimate ability Static Field?</item>
+        <item>Blitzcrank</item>
+        <item>Viktor</item>
+        <item>Xerath</item>
+        <item>Malzahar</item>
+    </string-array>
+    <string-array name="champions77">
+        <item>Whose is the ultimate ability Nether Grasp?</item>
+        <item>Malzahar</item>
+        <item>Nocturne</item>
+        <item>Skarner</item>
+        <item>Sion</item>
+    </string-array>
+    <string-array name="champions78">
+        <item>Whose is the ultimate ability Stand United?</item>
+        <item>Shen</item>
+        <item>Mordekaiser</item>
+        <item>Karma</item>
+        <item>Sion</item>
+    </string-array>
+    <string-array name="champions79">
+        <item>Whose is the ultimate ability Unstoppable Force?</item>
+        <item>Malphite</item>
+        <item>Mordekaiser</item>
+        <item>Nocturne</item>
+        <item>Volibear</item>
+    </string-array>
+    <string-array name="champions80">
+        <item>Whose is the ultimate ability Intervention?</item>
+        <item>Kayle</item>
+        <item>Poppy</item>
+        <item>Shen</item>
+        <item>Varus</item>
+    </string-array>
+    <string-array name="champions81">
+        <item>Whose is the ultimate ability Cannibalism?</item>
+        <item>Sion</item>
+        <item>Cho\'gath</item>
+        <item>Kog\'Maw</item>
+        <item>Dr Mundo</item>
+    </string-array>
+    <string-array name="champions82">
+        <item>Whose is the ultimate ability Primordial Burst?</item>
+        <item>Veigar</item>
+        <item>LeBlanc</item>
+        <item>Ryze</item>
+        <item>Sona</item>
+    </string-array>
+    <string-array name="champions83">
+        <item>Whose is the ultimate ability Unbreakable Will?</item>
+        <item>Alistar</item>
+        <item>Malzahar</item>
+        <item>Kayle</item>
+        <item>Karma</item>
+    </string-array>
+    <string-array name="champions84">
+        <item>Whose is the ultimate ability Slicing Maelstrom?</item>
+        <item>Kennen</item>
+        <item>Malzahar</item>
+        <item>Ryze</item>
+        <item>Poppy</item>
+    </string-array>
+    <string-array name="champions85">
+        <item>Whose is the ultimate ability Explosive Cask?</item>
+        <item>Gragas</item>
+        <item>Twitch</item>
+        <item>Viktor</item>
+        <item>Shaco</item>
+    </string-array>
+    <string-array name="champions86">
+        <item>Whose is the ultimate ability Requiem?</item>
+        <item>Karthus</item>
+        <item>Sona</item>
+        <item>Nasus</item>
+        <item>Urgot</item>
+    </string-array>
+    <string-array name="champions87">
+        <item>Whose is the ultimate ability Infinite Duress?</item>
+        <item>Warwick</item>
+        <item>Sivir</item>
+        <item>Jayce</item>
+        <item>Urgot</item>
+    </string-array>
+    <string-array name="champions88">
+        <item>Whose is the ultimate ability Relentless Assault?</item>
+        <item>Jax</item>
+        <item>Sion</item>
+        <item>Varus</item>
+        <item>Jayce</item>
+    </string-array>
+    <string-array name="champions89">
+        <item>Whose is the ultimate ability Sadism?</item>
+        <item>Dr Mundo</item>
+        <item>Mordekaiser</item>
+        <item>Kassadin</item>
+        <item>Nocturne</item>
+    </string-array>
+    <string-array name="champions90">
+        <item>Whose is the ultimate ability Tremors?</item>
+        <item>Rammus</item>
+        <item>Malphite</item>
+        <item>Veigar</item>
+        <item>Blitzcrank</item>
+    </string-array>
+    <string-array name="champions91">
+        <item>Whose is the ultimate ability Malice and Spite?</item>
+        <item>Evelynn</item>
+        <item>Dr. Mundo</item>
+        <item>Twitch</item>
+        <item>Mordekaiser</item>
+    </string-array>
+    <string-array name="champions92">
+        <item>Whose is the ultimate ability Fury of the Sands?</item>
+        <item>Nasus</item>
+        <item>Renekton</item>
+        <item>Amumu</item>
+        <item>Malzahar</item>
+    </string-array>
+    <string-array name="champions93">
+        <item>Whose is the ultimate ability Vengeful Maelstrom?</item>
+        <item>Maokai</item>
+        <item>Xerath</item>
+        <item>Brand</item>
+        <item>Karma</item>
+    </string-array>
+    <string-array name="champions94">
+        <item>Whose is the ultimate ability Shadow Dance?</item>
+        <item>Akali</item>
+        <item>Talon</item>
+        <item>Fiora</item>
+        <item>Sion</item>
+    </string-array>
+    <string-array name="champions95">
+        <item>Whose is the ultimate ability Chrono Shift?</item>
+        <item>Zylean</item>
+        <item>Malzahar</item>
+        <item>Rammus</item>
+        <item>Veigar</item>
+    </string-array>
+    <string-array name="champions96">
+        <item>Whose is the ultimate ability Nether Grasp?</item>
+        <item>Malzahar</item>
+        <item>Cho\'gath</item>
+        <item>Nocturne</item>
+        <item>Kassadin</item>
+    </string-array>
+    <string-array name="champions97">
+        <item>Whose is the ultimate ability Grand Skyfall?</item>
+        <item>Pantheon</item>
+        <item>Xerath</item>
+        <item>Shen</item>
+        <item>Volibear</item>
+    </string-array>
+    <string-array name="champions98">
+        <item>Whose is the ultimate ability Destiny?</item>
+        <item>Twisted Fate</item>
+        <item>Sona</item>
+        <item>Soraka</item>
+        <item>Kayle</item>
+    </string-array>
+    <string-array name="champions99">
+        <item>Whose is the ultimate ability Transcendent Blades?</item>
+        <item>Irelia</item>
+        <item>Talon</item>
+        <item>Riven</item>
+        <item>Katarina</item>
+    </string-array>
+    <string-array name="champions100">
+        <item>Who is the Curator of the Sands?</item>
+        <item>Nasus</item>
+        <item>Renekton</item>
+        <item>Zylean</item>
+        <item>Urf</item>
+    </string-array>
+    <string-array name="champions101">
+        <item>Who is the Arrow of Retribution?</item>
+        <item>Varus</item>
+        <item>Ashe</item>
+        <item>Vayne</item>
+        <item>Phreak</item>
+    </string-array>
+    <string-array name="champions102">
+        <item>Who is the Seneschal of Demacia?</item>
+        <item>Xin Zhao</item>
+        <item>Garen</item>
+        <item>Jarvan IV</item>
+        <item>Teemo</item>
+    </string-array>
+    <string-array name="champions103">
+        <item>Who is the Sheriff of Piltover?</item>
+        <item>Caitlyn</item>
+        <item>Garen</item>
+        <item>Graves</item>
+        <item>Heimerdinger</item>
+    </string-array>
+    <string-array name="champions104">
+        <item>Who is the Glorious Executioner?</item>
+        <item>Draven</item>
+        <item>Nautilus</item>
+        <item>Varus</item>
+        <item>Darius</item>
+    </string-array>
+    <string-array name="champions105">
+        <item>Who is the Revered Inventor?</item>
+        <item>Heimerdinger</item>
+        <item>Singed</item>
+        <item>Dr. Mundo</item>
+        <item>Lulu</item>
+    </string-array>
+    <string-array name="champions106">
+        <item>Who is the Swift Scout?</item>
+        <item>Teemo</item>
+        <item>Nidalee</item>
+        <item>Cho\'gath</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="champions107">
+        <item>Who is the Artisan of War?</item>
+        <item>Pantheon</item>
+        <item>Darius</item>
+        <item>Mordekaiser</item>
+        <item>Sion</item>
+    </string-array>
+    <string-array name="champions108">
+        <item>Who is the Rise of the Thorns?</item>
+        <item>Zyra</item>
+        <item>Maokai</item>
+        <item>Nidalee</item>
+        <item>Dolan</item>
+    </string-array>
+    <string-array name="champions109">
+        <item>Who is the Might of Demacia?</item>
+        <item>Garen</item>
+        <item>Lux</item>
+        <item>Jarvan IV</item>
+        <item>Lulu</item>
+    </string-array>
+    <string-array name="champions110">
+        <item>Who is the Hand of Noxus?</item>
+        <item>Darius</item>
+        <item>Riven</item>
+        <item>Draven</item>
+        <item>Evelynn</item>
+    </string-array>
+    <string-array name="champions111">
+        <item>Who is the Widowmaker?</item>
+        <item>Evelynn</item>
+        <item>Katarina</item>
+        <item>Vayne</item>
+        <item>Taric</item>
+    </string-array>
+    <string-array name="champions112">
+        <item>Who is the Heart of the Tempest?</item>
+        <item>Kennen</item>
+        <item>Xerath</item>
+        <item>Udyr</item>
+        <item>Veigar</item>
+    </string-array>
+    <string-array name="champions113">
+        <item>Who is the Radiant Dawn?</item>
+        <item>Leona</item>
+        <item>Lux</item>
+        <item>Fiora</item>
+        <item>Akali</item>
+    </string-array>
+    <string-array name="champions114">
+        <item>Who is the Barbarian King?</item>
+        <item>Tryndamere</item>
+        <item>Talon</item>
+        <item>Varus</item>
+        <item>Mordekaiser</item>
+    </string-array>
+    <string-array name="champions115">
+        <item>Who is the Rogue Mage?</item>
+        <item>Ryze</item>
+        <item>Lux</item>
+        <item>Morgana</item>
+        <item>Veigar</item>
+    </string-array>
+    <string-array name="champions116">
+        <item>Who is the Mouth of the Abyss?</item>
+        <item>Kog\'Maw</item>
+        <item>Cho\'gath</item>
+        <item>Teemo</item>
+        <item>Skarner</item>
+    </string-array>
+    <string-array name="champions117">
+        <item>Who is the Thunder\'s Roar?</item>
+        <item>Volibear</item>
+        <item>Kennen</item>
+        <item>Udyr</item>
+        <item>Amumu</item>
+    </string-array>
+    <string-array name="champions118">
+        <item>Whose is the passive ability Rising Spell Force?</item>
+        <item>Ezreal</item>
+        <item>Xerath</item>
+        <item>Veigar</item>
+        <item>Nunu</item>
+    </string-array>
+    <string-array name="champions119">
+        <item>Whose is the passive ability Reign of Anger?</item>
+        <item>Renekton</item>
+        <item>Singed</item>
+        <item>Tryndamere</item>
+        <item>Angry german boy</item>
+    </string-array>
+    <string-array name="champions120">
+        <item>Whose is the passive ability Perseverance?</item>
+        <item>Garen</item>
+        <item>Maokai</item>
+        <item>Nidalee</item>
+        <item>Lulu</item>
+    </string-array>
+    <string-array name="champions121">
+        <item>Whose is the passive ability Prowl?</item>
+        <item>Nidalee</item>
+        <item>Udyr</item>
+        <item>Ezreal</item>
+        <item>Skarner</item>
+    </string-array>
+    <string-array name="champions122">
+        <item>Whose is the passive ability Illumination?</item>
+        <item>Lux</item>
+        <item>Leona</item>
+        <item>Sona</item>
+        <item>Diana</item>
+    </string-array>
+    <string-array name="champions123">
+        <item>Whose is the passive ability Runic Skin?</item>
+        <item>Galio</item>
+        <item>Taric</item>
+        <item>Skarner</item>
+        <item>Ryze</item>
+    </string-array>
+    <string-array name="champions124">
+        <item>Who says the quote: "Into the fray"?</item>
+        <item>Kayle</item>
+        <item>Sona</item>
+        <item>Soraka</item>
+        <item>Swain</item>
+    </string-array>
+    <string-array name="champions125">
+        <item>Who says the quote: "Let me guide you"?</item>
+        <item>Soraka</item>
+        <item>Sona</item>
+        <item>Anivia</item>
+        <item>Morgana</item>
+    </string-array>
+    <string-array name="champions126">
+        <item>Who says the quote: "On my wings"?</item>
+        <item>Anivia</item>
+        <item>Kayle</item>
+        <item>Swain</item>
+        <item>Maokai</item>
+    </string-array>
+    <string-array name="champions127">
+        <item>Who says the quote: "Smart choice!"?</item>
+        <item>Ashe</item>
+        <item>Caitlyn</item>
+        <item>Annie</item>
+        <item>Teemo</item>
+    </string-array>
+    <string-array name="champions128">
+        <item>Who says the quote "The night is my veil"?</item>
+        <item>Evelynn</item>
+        <item>Diana</item>
+        <item>Katarina</item>
+        <item>Nocturne</item>
+    </string-array>
+    <string-array name="champions129">
+        <item>Who says the quote "They will fear the wild"?</item>
+        <item>Nidalee</item>
+        <item>Alistar</item>
+        <item>Sejuani</item>
+        <item>Shaco</item>
+    </string-array>
+    <string-array name="champions130">
+        <item>Who says the quote "To the fields of justice!"?</item>
+        <item>Garen</item>
+        <item>Darius</item>
+        <item>Nasus</item>
+        <item>Singed</item>
+    </string-array>
+    <string-array name="champions131">
+        <item>Whose is the passive ability Mirror Image?</item>
+        <item>LeBlanc</item>
+        <item>Shaco</item>
+        <item>Katarina</item>
+        <item>Tristana</item>
+    </string-array>
+    <string-array name="champions132">
+        <item>Whose is the passive ability Voracity?</item>
+        <item>Katarina</item>
+        <item>Cho\'gath</item>
+        <item>Skarner</item>
+        <item>Kha\'Zix</item>
+    </string-array>
+    <string-array name="champions133">
+        <item>Whose is the passive ability Draw a Bead?</item>
+        <item>Tristana</item>
+        <item>Lux</item>
+        <item>Galio</item>
+        <item>Alistar</item>
+    </string-array>
+    <string-array name="champions134">
+        <item>Whose is the passive ability Valiant Fighter?</item>
+        <item>Poppy</item>
+        <item>Leona</item>
+        <item>Garen</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="champions135">
+        <item>Whose is the passive ability Happpy Hour?</item>
+        <item>Gragas</item>
+        <item>Teemo</item>
+        <item>Corki</item>
+        <item>Alistar</item>
+    </string-array>
+    <string-array name="champions136">
+        <item>Whose is the passive ability Spiked Shell?</item>
+        <item>Rammus</item>
+        <item>Skarner</item>
+        <item>Sion</item>
+        <item>Udyr</item>
+    </string-array>
+    <string-array name="champions137">
+        <item>Whose is the passive ability Carrion Renewal?</item>
+        <item>Swain</item>
+        <item>Cho\'gath</item>
+        <item>Ryze</item>
+        <item>Morgana</item>
+    </string-array>
+    <string-array name="champions139">
+        <item>Whose is the passive ability Consecration?</item>
+        <item>Soraka</item>
+        <item>Sona</item>
+        <item>Janna</item>
+        <item>Sivir</item>
+    </string-array>
+    <string-array name="champions140">
+        <item>Whose is the passive ability Double Strike?</item>
+        <item>Master Yi</item>
+        <item>Shen</item>
+        <item>Nasus</item>
+        <item>Leona</item>
+    </string-array>
+    <string-array name="champions141">
+        <item>Whose is the passive ability Iron Man?</item>
+        <item>Mordekaiser</item>
+        <item>Blitzcrank</item>
+        <item>Corki</item>
+        <item>Darius</item>
+    </string-array>
+    <string-array name="champions142">
+        <item>Whose is the passive ability Pyromania?</item>
+        <item>Annie</item>
+        <item>Brand</item>
+        <item>Shyvana</item>
+        <item>Sejuani</item>
+    </string-array>
+
+</resources>

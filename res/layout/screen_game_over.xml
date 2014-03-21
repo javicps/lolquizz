@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lolquizz="http://schemas.android.com/apk/res/org.ninjalamp.lolquizz"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/game_over"
+        android:textSize="46sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/score_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/score_meter"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/your_score"
+        android:textSize="26sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/score_meter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ok_button"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="0"
+        android:textSize="26sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <org.ninjalamp.lolquizz.widgets.LolquizzButton
+        android:id="@+id/ok_button"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/ok"
+        android:textColor="@color/white"
+        android:textSize="16sp" >
+    </org.ninjalamp.lolquizz.widgets.LolquizzButton>
+
+</RelativeLayout>

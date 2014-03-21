@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:lolquizz="http://schemas.android.com/apk/res/org.ninjalamp.lolquizz"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/select_game_mode"
+        android:textSize="32sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <RadioGroup
+        android:id="@+id/mode_select"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title" >
+
+        <RadioButton
+            android:id="@+id/mode_time_attack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:checked="true"
+            android:text="@string/mode_time_attack" />
+
+        <RadioButton
+            android:id="@+id/mode_survival"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mode_time_attack"
+            android:layout_marginLeft="40dp"
+            android:text="@string/mode_survival" />
+
+        <RadioButton
+            android:id="@+id/mode_arcade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mode_survival"
+            android:layout_marginLeft="40dp"
+            android:text="@string/mode_arcade" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/mode_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ok_button"
+        android:layout_below="@+id/mode_select"
+        android:layout_margin="5dp"
+        android:text="@string/mode_time_attack_info"
+        android:textSize="22sp" />
+
+    <org.ninjalamp.lolquizz.widgets.LolquizzButton
+        android:id="@+id/start"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/white"
+        android:textSize="16sp" >
+    </org.ninjalamp.lolquizz.widgets.LolquizzButton>
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/app_name"
+        android:textSize="46sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/logo" >
+    </ImageView>
+
+    <Button
+        android:id="@+id/take_quizz"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/white"
+        android:textSize="16sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/options"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/options"
+        android:textColor="@color/white"
+        android:textSize="16sp" >
+    </Button>
+
+    <TextView
+        android:id="@+id/score_meter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="0"
+        android:textSize="26sp"
+        android:textStyle="bold" >
+    </TextView>
+
+</LinearLayout>

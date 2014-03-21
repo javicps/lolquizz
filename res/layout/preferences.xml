@@ -1,0 +1,34 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- <PreferenceScreen
+        android:summary="@string/summary_question_settings"
+        android:title="@string/question_settings" > -->
+
+        <CheckBoxPreference
+            android:key="@string/sound_preference_key"
+            android:summary="@string/summary_sound_effects"
+            android:defaultValue="true"
+            android:title="@string/sound_effects" />
+
+        <!--
+<PreferenceCategory android:title="@string/game_settings" >
+
+        <CheckBoxPreference
+                android:key="lore_questions_preference"
+                android:summary="@string/summary_lore_questions"
+                android:title="@string/lore_questions" />
+
+            <CheckBoxPreference
+                android:key="item_questions_preference"
+                android:summary="@string/summary_item_questions"
+                android:title="@string/item_questions" />
+
+            <CheckBoxPreference
+                android:key="champion_questions_preference"
+                android:summary="@string/summary_champion_questions"
+                android:title="@string/champion_questions" /> -
+        </PreferenceCategory>-->
+    <!--  </PreferenceScreen>-->
+
+</PreferenceScreen>
+        

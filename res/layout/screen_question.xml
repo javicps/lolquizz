@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+    <RelativeLayout
+        android:id="@+id/title_frame"
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:layout_alignParentTop="true" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_toLeftOf="@+id/time_counter"
+            android:text="Question"
+            android:textColor="@color/gray"
+            android:textSize="26sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/time_counter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dp"
+            android:text="60"
+            android:textSize="26sp"
+            android:textColor="@color/gray"
+            android:textStyle="bold" >
+        </TextView>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/option1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_frame"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/gray"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/option2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/option1"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/gray"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/option3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/option2"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/gray"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/option4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/option3"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_released"
+        android:text="@string/take_quizz"
+        android:textColor="@color/gray"
+        android:textSize="20sp" >
+    </Button>
+
+    <TextView
+        android:id="@+id/score_meter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adView"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="0"
+        android:textSize="26sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <com.google.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="a1506be972a31a0"
+        ads:loadAdOnCreate="true"
+        ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID" />
+
+</RelativeLayout>

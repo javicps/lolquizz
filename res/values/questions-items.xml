@@ -1,0 +1,158 @@
+<resources>
+
+    <string-array name="items7">
+        <item>How much armor provides Greater Mark of Resilience?</item>
+        <item>+0.91</item>
+        <item>+0.87</item>
+        <item>+1.20</item>
+        <item>+0.75</item>
+    </string-array>
+    <string-array name="items8">
+        <item>How much health provides Greater Seal of Vitality?</item>
+        <item>+1.08</item>
+        <item>+1.15</item>
+        <item>+0.98</item>
+        <item>+0.75</item>
+    </string-array>
+    <string-array name="items9">
+        <item>What\'s the gold cost of Doran\'s Blade?</item>
+        <item>475</item>
+        <item>425</item>
+        <item>500</item>
+        <item>550</item>
+    </string-array>
+    <string-array name="items10">
+        <item>How much health provides Giant\'s Belt?</item>
+        <item>430</item>
+        <item>420</item>
+        <item>410</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="items11">
+        <item>How many gold do you normally refund by selling an item?</item>
+        <item>70%</item>
+        <item>50%</item>
+        <item>40%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="items12">
+        <item>What is the color of Blasting Wand?</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+    <string-array name="items13">
+        <item>What is the gold cost of Boots of Speed?</item>
+        <item>350 gold</item>
+        <item>400 gold</item>
+        <item>300 gold</item>
+        <item>450 gold</item>
+    </string-array>
+    <string-array name="items14">
+        <item>What is the gold cost of Cloth Armor?</item>
+        <item>300 gold</item>
+        <item>350 gold</item>
+        <item>400 gold</item>
+        <item>450 gold</item>
+    </string-array>
+    <string-array name="items15">
+        <item>What are the names of the elixirs you can buy?</item>
+        <item>Agility, Brilliance and Fortitude</item>
+        <item>Swiftness, Brilliance and Fortitude</item>
+        <item>Swiftness, Ability and Fortitude</item>
+        <item>Agility, Brilliance and Stamina</item>
+    </string-array>
+    <string-array name="items21">
+        <item>How much ability power provides Abyssal Scepter?</item>
+        <item>70</item>
+        <item>55</item>
+        <item>85</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="items22">
+        <item>How much ability power provides Amplifying Tome?</item>
+        <item>20</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="items23">
+        <item>How much ability power provides Blasting Wand?</item>
+        <item>40</item>
+        <item>45</item>
+        <item>35</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="items24">
+        <item>How much movement provides Boots of Speed?</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="items25">
+        <item>How much movement provides Boots of Swiftness?</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="items26">
+        <item>How much ability power provides Deathfire Grasp?</item>
+        <item>80</item>
+        <item>75</item>
+        <item>70</item>
+        <item>65</item>
+    </string-array>
+    <string-array name="items27">
+        <item>How much health provides Doran\'s Blade?</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>70</item>
+    </string-array>
+    <string-array name="items28">
+        <item>How much health provides Doran\'s Ring?</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>70</item>
+    </string-array>
+    <string-array name="items29">
+        <item>How much health provides Doran\'s Shield?</item>
+        <item>120</item>
+        <item>100</item>
+        <item>80</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="items30">
+        <item>How much health provides Frozen Mallet?</item>
+        <item>700</item>
+        <item>600</item>
+        <item>800</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="items31">
+        <item>How much health provides a Health Potion?</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="items32">
+        <item>Which items costs 1337 gold?</item>
+        <item>Brutalizer</item>
+        <item>Phage</item>
+        <item>Long Sword</item>
+        <item>BF Sword</item>
+    </string-array>
+    <string-array name="items33">
+        <item>What was the original name of the Recall ability?</item>
+        <item>Blue Pill</item>
+        <item>Teleport</item>
+        <item>Summon</item>
+        <item>Retreat</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<question text="What color is Veigar?">
+    <option id="1">Red</option>
+    <option id="2" right="">Blue</option>
+    <option id="3">White</option>
+    <option id="4">Green</option>
+</<question>

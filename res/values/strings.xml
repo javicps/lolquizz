@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+	<string name="app_name">LoL Quizz</string>
+	<string name="take_quizz">Take quizz!</string>
+	<string name="options">Options</string>
+	<string name="game_settings">Options</string>
+	<string name="game_over">Game Over</string>
+	<string name="your_score">Your score:</string>
+	<string name="select_game_mode">Select Game Mode</string>
+	<string name="mode_arcade">Arcade</string>
+	<string name="mode_time_attack">Time Attack</string>
+	<string name="mode_survival">Survival</string>
+	<string name="mode_arcade_info">You start the game with three lives. You miss one life for every wrong question.</string>
+	<string name="mode_survival_info">In this mode, you have to answer all questions correctly. Any wrong question means game over!</string>
+	<string name="mode_time_attack_info">You have 60 seconds to answer as much questions as
+		possible. Every right question gives a 5 seconds bonus to the time,
+		but every wrong one gives a 2 seconds penalty.</string>
+	<string name="ok">OK</string>
+	<!-- Preferences -->
+	<string name="question_settings">Question settings</string>
+	<string name="summary_question_settings">Here you can select which questions you want to
+		play with</string>
+	<string name="lore_questions">Lore questions</string>
+	<string name="summary_lore_questions">Questions about League of Legends lore</string>
+	<string name="item_questions">Item questions</string>
+	<string name="summary_item_questions">Questions about item stats and appearance</string>
+	<string name="champion_questions">Champion questions</string>
+	<string name="summary_champion_questions">Questions about League of Legends champions
+	</string>
+	<string name="sound_effects">Sound effects</string>
+	<string name="sound_preference_key">sound_preference</string>
+	<string name="summary_sound_effects">If checked the application will play sound effects
+	</string>
+</resources>

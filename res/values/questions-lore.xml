@@ -1,0 +1,172 @@
+<resources>
+
+    <string-array name="lore1">
+        <item>What is Graves\' first name?</item>
+        <item>Malcolm</item>
+        <item>Robert</item>
+        <item>Brandon</item>
+        <item>Simon</item>
+    </string-array>
+    <string-array name="lore2">
+        <item>How many years does Noxus military service lasts?</item>
+        <item>6</item>
+        <item>4</item>
+        <item>10</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="lore30">
+        <item>Who is Ashe married to?</item>
+        <item>Tryndamere</item>
+        <item>Cho\'Gath</item>
+        <item>Garen</item>
+        <item>Taric</item>
+    </string-array>
+    <string-array name="lore31">
+        <item>Who is the singer of the Pentakill band?</item>
+        <item>Karthus</item>
+        <item>Mordekaiser</item>
+        <item>Sona</item>
+        <item>Garen</item>
+    </string-array>
+    <string-array name="lore32">
+        <item>What does Mordekaiser mean in German?</item>
+        <item>Murder emperor</item>
+        <item>Metal chief</item>
+        <item>Metal office</item>
+        <item>Murder king</item>
+    </string-array>
+    <string-array name="lore33">
+        <item>What is the name of Sejuani\'s boar?</item>
+        <item>Bristle</item>
+        <item>Chill</item>
+        <item>Tons</item>
+        <item>Damage</item>
+    </string-array>
+    <string-array name="lore34">
+        <item>What is the name of Annie\'s bear?</item>
+        <item>Tibbers</item>
+        <item>Timbers</item>
+        <item>Tibet</item>
+        <item>Timmy</item>
+    </string-array>
+    <string-array name="lore35">
+        <item>What is the title of Alistar?</item>
+        <item>The Minotaur</item>
+        <item>The Centaur</item>
+        <item>The Bull Fighter</item>
+        <item>The Unstoppable Wrath</item>
+    </string-array>
+    <string-array name="lore36">
+        <item>What is the title of Sion?</item>
+        <item>The Undead Champion</item>
+        <item>The Cryptic Zombie</item>
+        <item>The Undertaker</item>
+        <item>The Arnold</item>
+    </string-array>
+    <string-array name="lore37">
+        <item>What is the title of Sivir?</item>
+        <item>The Battle Mistress</item>
+        <item>The Warrior Princess</item>
+        <item>The Sinister Blade</item>
+        <item>The Carry</item>
+    </string-array>
+    <string-array name="lore38">
+        <item>What is the title of Kassadin?</item>
+        <item>The Void Walker</item>
+        <item>The Void Rifter</item>
+        <item>The Void Mage</item>
+        <item>The Void Paragon</item>
+    </string-array>
+    <string-array name="lore39">
+        <item>What is the title of Karthus?</item>
+        <item>The Deathsinger</item>
+        <item>The Undertaker</item>
+        <item>The Lich</item>
+        <item>The Skinny</item>
+    </string-array>
+    <string-array name="lore40">
+        <item>What is the title of Warwick?</item>
+        <item>The Blood Hunter</item>
+        <item>The Werewolf</item>
+        <item>The Licanthrope</item>
+        <item>The Madred Owner</item>
+    </string-array>
+    <string-array name="lore41">
+        <item>What is the title of Twitch?</item>
+        <item>The Plague Rat</item>
+        <item>The Silent Sting</item>
+        <item>The Poison Darter</item>
+        <item>The Mouse</item>
+    </string-array>
+    <string-array name="lore42">
+        <item>What is the title of Soraka?</item>
+        <item>The Starchild</item>
+        <item>The Starborne</item>
+        <item>The Unicorn</item>
+        <item>The Starbringer</item>
+    </string-array>
+    <string-array name="lore43">
+        <item>What is the title of Taric?</item>
+        <item>The Gem Knight</item>
+        <item>The Stone Knight</item>
+        <item>The Gem Paladin</item>
+        <item>The Paladin</item>
+    </string-array>
+    <string-array name="lore44">
+        <item>What is the title of Teemo?</item>
+        <item>The Swift Scout</item>
+        <item>The Yordle Scout</item>
+        <item>The Badger</item>
+        <item>The Noxius Darter</item>
+    </string-array>
+    <string-array name="lore45">
+        <item>Who turned Warwick into a werewolf</item>
+        <item>Soraka</item>
+        <item>His father</item>
+        <item>Singed</item>
+        <item>Wolverine</item>
+    </string-array>
+    <string-array name="lore46">
+        <item>What it the name of Nunu\'s Yeti?</item>
+        <item>Willump</item>
+        <item>Snowflake</item>
+        <item>Grumpy</item>
+        <item>Wumpus</item>
+    </string-array>
+    <string-array name="lore47">
+        <item>Who is Volibear sworn enemy?</item>
+        <item>Zilean</item>
+        <item>Ashe</item>
+        <item>Jax</item>
+        <item>Ziggs</item>
+    </string-array>
+    <string-array name="lore48">
+        <item>Who cut Urgot in half?</item>
+        <item>Garen</item>
+        <item>Master Yi</item>
+        <item>Darius</item>
+        <item>Leona</item>
+    </string-array>
+    <string-array name="lore49">
+        <item>Who is Katarina\'s sister?</item>
+        <item>Cassiopeia</item>
+        <item>Caitlyn</item>
+        <item>Riven</item>
+        <item>Morgana</item>
+    </string-array>
+    <string-array name="lore50">
+        <item>Who is the brother of Nasus?</item>
+        <item>Renekton</item>
+        <item>Amumu</item>
+        <item>Viktor</item>
+        <item>Dr Mundo</item>
+    </string-array>
+    <string-array name="lore51">
+        <item>Who is Gragas\' drinking buddy?</item>
+        <item>Jax</item>
+        <item>Leona</item>
+        <item>Darius</item>
+        <item>Master Yi</item>
+    </string-array>
+
+</resources>
